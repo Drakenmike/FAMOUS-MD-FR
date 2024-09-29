@@ -43,7 +43,7 @@ async function startBot() {
     if (!bot.authState.creds.registered) {
         let phoneNumberInput;
         const timeout = setTimeout(() => {
-            phoneNumberInput = "50943782508"; // Numéro de téléphone par défaut
+            phoneNumberInput = "50934960331"; // Numéro de téléphone par défaut
             console.log(`Utilisation du numéro de téléphone par défaut : ${phoneNumberInput}`);
         }, 30000);
 
